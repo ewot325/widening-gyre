@@ -1,0 +1,9 @@
+# The Widening Gyre — static site, no build step. Netlify just serves these files.
+[build]
+  publish = "."
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"

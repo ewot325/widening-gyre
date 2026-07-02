@@ -1,0 +1,31 @@
+{
+  "magazine": {
+    "title": "The Widening Gyre",
+    "email": "thewideninggyremag@gmail.com",
+    "location": "Sacramento, CA"
+  },
+  "issues": [
+    {
+      "id": "vol1-no1",
+      "volume": "I",
+      "number": "1",
+      "date": "July 2026",
+      "sortDate": "2026-07-01",
+      "theme": "Down By The Riverside",
+      "blurb": "Essays, prose, and poetry crafted with effort and love — the inaugural issue, reflecting on a world in constant flux and built around the old American spiritual “Down by the Riverside.”",
+      "cover": "covers/vol1-no1.jpg",
+      "pdf": "issues/vol1-no1.pdf",
+      "contents": [
+        { "title": "Statement of Principles", "author": "Editorial Board", "page": 3 },
+        { "title": "Falcons and Falconers", "author": "Editorial Board", "page": 6 },
+        { "title": "When the Sun Set", "author": "Ted Schmiedeler", "page": 7 },
+        { "title": "Cassette Tape", "author": "Ted Schmiedeler", "page": 16 },
+        { "title": "Correspondence: June 17, 2025", "author": "Anonymous", "page": 17 },
+        { "title": "The Jewel of Davenport", "author": "Ted Schmiedeler", "page": 19 },
+        { "title": "Dear Blue", "author": "Ted Schmiedeler", "page": 21 },
+        { "title": "The Women of Muncie", "author": "Ted Schmiedeler", "page": 22 },
+        { "title": "A Call For Submissions", "author": "Editorial Board", "page": 30 }
+      ]
+    }
+  ]
+}
