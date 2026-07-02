@@ -1,6 +1,6 @@
 # The Widening Gyre
 
-Website for *The Widening Gyre*, a monthly magazine by Ted Schmiedeler.
+Website for *The Widening Gyre*, a monthly magazine.
 
 It's a plain static site (no build step). Every page is driven by one data
 file, so publishing an issue doesn't require touching any code.
