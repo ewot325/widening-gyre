@@ -141,6 +141,8 @@ main { flex: 1 0 auto; padding: 22px 26px 30px; }
 .prose .byline { text-align: center; color: var(--muted); font-size: 14px; margin-bottom: 26px; }
 .prose p { font-size: 15px; margin: 0 0 16px; }
 .prose .lead-q { font-weight: 700; }
+.prose .coda { text-align: center; font-style: italic; margin: 28px auto 0; max-width: 480px; }
+.prose .coda + .coda { margin-top: 12px; }
 .prose .closing { text-align: center; font-weight: 700; margin-top: 24px; }
 
 .callout { border: 2px solid var(--ink); background: var(--yellow-soft); padding: 16px 18px; margin: 22px 0; }
